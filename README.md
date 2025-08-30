@@ -1,4 +1,4 @@
-# ShoppingCart2x
+# VishXcart
 
 A clean, **fully responsive shopping cart application** built with React. This project goes beyond the basics, featuring a **modern product grid, dynamic cart badge counter, integrated routing, and an elegant contact form** — all wrapped in a **sleek, mobile-friendly interface**.
 
@@ -54,5 +54,5 @@ A clean, **fully responsive shopping cart application** built with React. This p
 4. Open in browser:
 
    ```
-   http://localhost:5173  (if using Vite)
+   http://localhost:3000 
    ```
